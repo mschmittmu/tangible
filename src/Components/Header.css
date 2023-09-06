@@ -1,0 +1,24 @@
+.modal-con-btn {
+  height: 43px;
+  border-radius: 7px;
+  border-color: grey;
+  font-weight: bold;
+}
+
+.discount-btn {
+  color: white;
+}
+
+.web3modal-modal-card {
+  width: 400px !important;
+  min-width: unset !important;
+  max-width: unset !important;
+}
+
+.web3modal-provider-container {
+  flex-direction: row !important;
+}
+
+.web3modal-provider-description {
+  display: none;
+}
